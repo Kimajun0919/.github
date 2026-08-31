@@ -258,7 +258,7 @@ AI Search / GEO
 
 | Product           | Category          | Status          |
 | ----------------- | ----------------- | --------------- |
-| 🍡 **찰떡이야**       | AI · Productivity | 🟢 Active       |
+| 🍡 **찰떡**       | AI · Productivity | 🟢 Active       |
 | 🎚️ **LOLvlance** | AI · Audio        | 🟡 Building     |
 | 🌐 **GEO 테스트기**   | AI Search · GEO   | 🧪 Experimental |
 
