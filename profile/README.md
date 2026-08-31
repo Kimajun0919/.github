@@ -38,7 +38,7 @@ we build practical products around problems worth solving.
 <tr>
 <td width="50%" valign="top">
 
-### 🍡 찰떡이야
+### 🍡 찰떡
 
 **AI-powered work execution platform**
 
